@@ -1213,7 +1213,9 @@
   },
   "8869289628": {
     "name": "CoinMarketCap Official Support",
-    "history": []
+    "history": [
+      "CoinMarketCapPricee"
+    ]
   },
   "7417596506": {
     "name": "Vera",
@@ -1645,5 +1647,13 @@
     "history": [
       "revanganteng1"
     ]
+  },
+  "8370767487": {
+    "name": "𝐙𝐞𝐯𝐱𝐱𝗫",
+    "history": []
+  },
+  "8890444051": {
+    "name": "JANZZ",
+    "history": []
   }
 }
