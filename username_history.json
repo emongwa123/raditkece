@@ -472,8 +472,10 @@
     ]
   },
   "1394027518": {
-    "name": "NIKYY STORE (NOT DEV) T5",
-    "history": []
+    "name": "NIKYY STORE (NOT DEV)",
+    "history": [
+      "orangbiasa61"
+    ]
   },
   "1396212015": {
     "name": "tezd",
@@ -4845,6 +4847,10 @@
   },
   "8566285707": {
     "name": "-",
+    "history": []
+  },
+  "8322481951": {
+    "name": "PashaV1",
     "history": []
   }
 }
