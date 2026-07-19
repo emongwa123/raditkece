@@ -4493,8 +4493,10 @@
     "history": []
   },
   "7820165934": {
-    "name": "2U",
-    "history": []
+    "name": "[00]",
+    "history": [
+      "ARZXSRT"
+    ]
   },
   "7912689350": {
     "name": "𝒖𝒏𝒈𝒌𝒆𝒆𝒆",
@@ -5290,6 +5292,16 @@
     "name": "BOT FIX MERAH DI BIO",
     "history": [
       "official_poloniex_team02"
+    ]
+  },
+  "7149952527": {
+    "name": "𝒙`𝑿𝒂𝒏𝒅𝒆𝒓 #T5",
+    "history": []
+  },
+  "5542377844": {
+    "name": "❅𝗔𝗹𝗮𝗻𝗻 𝗪𝗶𝗻𝘁𝗲𝗿'𝘀",
+    "history": [
+      "alannxd"
     ]
   }
 }
