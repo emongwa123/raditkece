@@ -7170,7 +7170,9 @@
   },
   "7540548298": {
     "name": "aurel 404",
-    "history": []
+    "history": [
+      "panggilaurell"
+    ]
   },
   "7853370605": {
     "name": "dk",
@@ -7181,5 +7183,9 @@
     "history": [
       "jastep8_bot"
     ]
+  },
+  "8608998837": {
+    "name": "Support Monzo Banking Service",
+    "history": []
   }
 }
