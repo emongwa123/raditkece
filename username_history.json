@@ -171,6 +171,12 @@
     "name": "FARHAH08",
     "history": []
   },
+  "889839684": {
+    "name": "Translator",
+    "history": [
+      "TgTranslatorBot"
+    ]
+  },
   "890581021": {
     "name": "Group Help",
     "history": [
@@ -543,6 +549,10 @@
   },
   "1242300837": {
     "name": "SadStore",
+    "history": []
+  },
+  "1244462308": {
+    "name": "402",
     "history": []
   },
   "1244508265": {
@@ -7626,6 +7636,16 @@
     "name": "Force Subscriber",
     "history": [
       "ForceSubscriber_Bot"
+    ]
+  },
+  "8494553197": {
+    "name": "Dinda",
+    "history": []
+  },
+  "6827028762": {
+    "name": "Fierna Hasia",
+    "history": [
+      "Fiernasi"
     ]
   }
 }
